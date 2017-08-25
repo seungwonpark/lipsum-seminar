@@ -1,0 +1,40 @@
+\documentclass{standalone}
+\usepackage{tikz}
+\begin{document}
+	\tikzstyle{c} = [draw, shape=circle]
+	\begin{tikzpicture}[
+	every node/.style={c},
+	level distance=15mm,
+	level 1/.style={sibling distance=60mm},
+	level 2/.style={sibling distance=30mm},
+	level 3/.style={sibling distance=15mm}
+	]
+	\node{html}[edge from parent]
+	child {
+		node {head}
+		child {
+			node{meta}
+		}
+		child {
+			node{meta}
+		}
+	}
+	child {
+		node {body}
+		child {
+			node{div}
+			child{ node{a} }
+			child{ node{span} }
+		}
+		child {
+			node{div}
+			child{ node{a} }
+			child{
+				node{div}
+				child{ node{a} }
+				child{ node{a} }
+			}
+		}
+	};
+	\end{tikzpicture}
+\end{document}
