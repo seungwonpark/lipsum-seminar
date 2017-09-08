@@ -1,7 +1,7 @@
 # Lorem Ipsum Seminar
-> Informatics seminar of two physicists:mortar_board: and one chemistry student:school_satchel:.
+> Informatics seminar of two physicis students:atom_symbol: and one chemistry student:alembic:.
 
-- Speakers : [Minho Kim](https://github.com/lukealk98):mortar_board:, [Juno Nam](https://github.com/recisic):school_satchel:, [Seungwon Park](https://github.com/seungwonpark):mortar_board:.
+- Speakers : [Minho Kim](https://github.com/lukealk98):atom_symbol:, [Juno Nam](https://github.com/recisic):alembic:, [Seungwon Park](https://github.com/seungwonpark):atom_symbol:.
 
 ## Lectures
 
