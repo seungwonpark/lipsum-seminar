@@ -1,7 +1,7 @@
 # Lorem Ipsum Seminar
-> Informatics seminar of two physicists and one chemist.
+> Informatics seminar of two physicists:mortar_board: and one chemistry student:school_satchel:.
 
-- Speakers : [Minho Kim](https://github.com/lukealk98), [Juno Nam](https://github.com/recisic), [Seungwon Park](https://github.com/seungwonpark).
+- Speakers : [Minho Kim](https://github.com/lukealk98):mortar_board:, [Juno Nam](https://github.com/recisic):school_satchel:, [Seungwon Park](https://github.com/seungwonpark):mortar_board:.
 
 ## Lectures
 
