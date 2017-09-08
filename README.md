@@ -1,5 +1,5 @@
 # Lorem Ipsum Seminar
-> Informatics seminar of two physicis students:atom_symbol: and one chemistry student:alembic:.
+> Informatics seminar of two physics students:atom_symbol: and one chemistry student:alembic:.
 
 - Speakers : [Minho Kim](https://github.com/lukealk98):atom_symbol:, [Juno Nam](https://github.com/recisic):alembic:, [Seungwon Park](https://github.com/seungwonpark):atom_symbol:.
 
