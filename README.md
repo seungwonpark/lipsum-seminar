@@ -14,4 +14,4 @@ For detailed information and license about each lecture note, please refer to th
 | 003 (2017.08.09) | [Quantum Computations](./lukealk98/Seminar%203.pptx) | [Introduction to DL](./recisic/170809/)  | [Brief Intro. to Algorithms](./seungwonpark/170809/LoremIpsum-170809-seungwonpark.ipynb) |
 | 004 (2017.08.25) | [Quantum Computations](./lukealk98/Seminar%203.pptx) and [Fourier Transform and its Applications](./lukealk98/Seminar%204.pptx)| [Formal Languages and Automata (1)](./recisic/170825/automata-1.pdf) | [Algorithms (2)](./seungwonpark/170825/LoremIpsum-170825-seungwonpark.ipynb) |
 | 005 (2017.09.09) | [Fourier Transform and its Applications](./lukealk98/Seminar%204.pptx)  | [Formal Languages and Automata (2)](./recisic/170909/automata-2.pdf) | [Algorithms (3)](./seungwonpark/170909/LoremIpsum-170909-seungwonpark.ipynb) |
-| 006 (2017.09.22) | [Quantum Search Algorithms](./lukealk98/Seminar%205.pptx) |                                      | Practice Session |
+| 006 (2017.09.22) | [Quantum Search Algorithms](./lukealk98/Seminar%205.pptx) | Practice Session | Practice Session |
