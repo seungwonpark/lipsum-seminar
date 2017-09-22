@@ -5,7 +5,8 @@
 
 ## Lectures
 
-For detailed information and license about each lecture note, please refer to the note itself, or the folder containing the note.
+The first session of the Lorem Ipsum Seminar is now over! We will be accepting new members in December.
+Cheers! 
 
 | No. (date)       | Minho Kim                                | Juno Nam                                 | Seungwon Park                            |
 | ---------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
