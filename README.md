@@ -5,8 +5,7 @@
 
 ## Lectures
 
-The first session of the Lorem Ipsum Seminar is now over! We will be accepting new members in December.
-Cheers! 
+The first session of the Lorem Ipsum Seminar is now over!
 
 | No. (date)       | Minho Kim                                | Juno Nam                                 | Seungwon Park                            |
 | ---------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
